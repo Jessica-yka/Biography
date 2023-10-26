@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jessica-yka.github.ioBiography/sitemap.xml
+Sitemap: https://jessica-yka.github.io/sitemap.xml
